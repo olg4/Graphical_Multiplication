@@ -31,3 +31,9 @@ b2: the blue component of the second color<br/>
 <br/>
 For exemple:<br/>
 > $ python3 graphical_mult.py 55 500 150 250 1 1 254 130 1
+
+#
+
+#### Overview
+
+<img src="img/graphic.png" width="100"/>

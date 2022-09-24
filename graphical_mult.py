@@ -6,7 +6,7 @@ entrer en paramètre (ligne de commande):
 55 500 150 250 1 1 254 130 1
 """
 
-import turtle, math, sys
+import tkinter, turtle, math, sys
 from sys import argv
 
 turtle.reset()
@@ -17,7 +17,7 @@ r = int(argv[3])          #rayon du cercle
 r1 = int(argv[4])         #("Red1") ; couleurs 1ere composante
 g1 = int(argv[5])         #("Green1")
 b1 = int(argv[6])         #("Blue1")
-r2 = int(argv[7])         #("Red2") ; couleurs 2e composante
+r2 = int(argv[7])         # ("Red2") ; couleurs 2e composante
 g2 = int(argv[8])         #("Green2")
 b2 = int(argv[9])         #("Blue2")
 turtle.speed(0)
