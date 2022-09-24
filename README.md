@@ -36,4 +36,4 @@ For exemple:<br/>
 
 #### Overview
 
-<img src="img/graphic.png" width="100"/>
+<img src="img/graphic.png" width="200"/>
